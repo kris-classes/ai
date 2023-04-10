@@ -4,6 +4,8 @@ Resources for learning &amp; using AI / Machine Learning
 ## Courses
 
 * [FastAI Course - Practical Deep Learning for Coders](https://course.fast.ai/)
+* [FastAI Course Videos - Part 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+* [FastAI Course Videos - Part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
 * [Microsoft - ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
 * [Andrej Karpathy - Neural Networks Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) - Has some maths prerequisites.
 
