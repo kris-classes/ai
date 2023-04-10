@@ -1,5 +1,5 @@
 # ai
-Resources for learning &amp; using AI / Machine Learning
+Curated resources list for learning &amp; using AI / Machine Learning
 
 ## Courses
 
